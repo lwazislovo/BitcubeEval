@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/BitcubeEval/static/css/main.5d628485.chunk.css",
+    "main.js": "/BitcubeEval/static/js/main.dc5e5d04.chunk.js",
+    "main.js.map": "/BitcubeEval/static/js/main.dc5e5d04.chunk.js.map",
+    "runtime-main.js": "/BitcubeEval/static/js/runtime-main.2fc4c9ba.js",
+    "runtime-main.js.map": "/BitcubeEval/static/js/runtime-main.2fc4c9ba.js.map",
+    "static/js/2.0000756c.chunk.js": "/BitcubeEval/static/js/2.0000756c.chunk.js",
+    "static/js/2.0000756c.chunk.js.map": "/BitcubeEval/static/js/2.0000756c.chunk.js.map",
+    "index.html": "/BitcubeEval/index.html",
+    "precache-manifest.28ede5ba029398920676c79727c7d312.js": "/BitcubeEval/precache-manifest.28ede5ba029398920676c79727c7d312.js",
+    "service-worker.js": "/BitcubeEval/service-worker.js",
+    "static/css/main.5d628485.chunk.css.map": "/BitcubeEval/static/css/main.5d628485.chunk.css.map",
+    "static/js/2.0000756c.chunk.js.LICENSE.txt": "/BitcubeEval/static/js/2.0000756c.chunk.js.LICENSE.txt",
+    "static/media/AccountingLogo.png": "/BitcubeEval/static/media/AccountingLogo.cb3739dd.png",
+    "static/media/AppliedMathsLogo.jpg": "/BitcubeEval/static/media/AppliedMathsLogo.f485ae35.jpg",
+    "static/media/ComputerScienceLogo.jpg": "/BitcubeEval/static/media/ComputerScienceLogo.d0279a95.jpg",
+    "static/media/ElectricalLogo.jpeg": "/BitcubeEval/static/media/ElectricalLogo.9a9aabfc.jpeg",
+    "static/media/MathsLogo.jpeg": "/BitcubeEval/static/media/MathsLogo.e7bdd8f9.jpeg",
+    "static/media/MechanicalEngineeringLogo.jpg": "/BitcubeEval/static/media/MechanicalEngineeringLogo.3d03a7ac.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc4c9ba.js",
+    "static/js/2.0000756c.chunk.js",
+    "static/css/main.5d628485.chunk.css",
+    "static/js/main.dc5e5d04.chunk.js"
+  ]
+}
